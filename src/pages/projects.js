@@ -9,9 +9,9 @@ const Projects = () => {
     <Layout pageTitle="Projects">
       <p>My projects</p>
       <Link to="https://stircocktail.art/home">
-        <p>Site Rick and Morty</p>
+        <p>Website for Bombay brand</p>
       </Link>
-      <StaticImage alt="projects" src="../images/Screenshot_41.png" />
+      <StaticImage alt="projects" src="../images/Screenshot_42.png" />
       <Link to="https://portfolio.migracode.org/projects">
         <p>MigraCode projects</p>
       </Link>
